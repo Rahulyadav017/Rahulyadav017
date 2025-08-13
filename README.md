@@ -27,30 +27,18 @@
 ## 📌 Featured Projects
 
 ### 🍕 Pizza Sales Analysis (SQL)
-[🔗 View Project](https://github.com/your-username/pizza-sales-analysis)  
+[🔗 View Project](https://github.com/Rahulyadav017/-Pizza-Sales-Performance-Report-using-SQL-)  
 **Skills:** SQL Joins, Aggregations, Window Functions  
 > Analyzed pizza sales data to extract key KPIs like revenue, top-selling pizzas, and size preferences.
 
 ---
 
-### 📊 Zomato Data Analysis
-[🔗 View Project](https://github.com/your-username/zomato-data-analysis)  
+### 📊 Customer Churn Analysis
+[🔗 View Project](https://github.com/Rahulyadav017/Customer_churn-report)  
 **Skills:** Data Cleaning, Visualization, EDA  
-> Cleaned and analyzed restaurant data to uncover trends in cuisines, cost, and location preferences.
+> Cleaned and analyzed rdata to uncover trends in churn, cost, and by gender.
 
----
-
-### 🤖 AI-Powered Collections Strategy
-[🔗 View Project](https://github.com/your-username/ai-collections-strategy)  
-**Skills:** Machine Learning, Risk Profiling, Business Strategy  
-> Built AI models to predict loan delinquency and create a smart collections strategy.
-
----
-
-## 📈 GitHub Stats
-
-![Rahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight)
+-
 
 ---
 
