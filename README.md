@@ -66,19 +66,14 @@
 -
 
 ---
-## 🌐 Connect With Me  
+## 🌐 You Can Connect With Me  
 
-<p align="center">
-  <a href="https://github.com/Rahulyadav017">
-    <img src="https://img.icons8.com/ios-glyphs/30/000000/github.png" alt="GitHub"/>
-  </a>
-  <a href="https://www.linkedin.com/in/rahul-yadav-61901b168/">
-    <img src="https://img.icons8.com/ios-filled/30/0A66C2/linkedin.png" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:ry66239@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</p>
+[<img src="https://img.icons8.com/ios-glyphs/40/000000/github.png" alt="GitHub" /> **GitHub**](https://github.com/Rahulyadav017)  
+
+[<img src="https://img.icons8.com/ios-filled/40/0A66C2/linkedin.png" alt="LinkedIn" /> **LinkedIn**](https://www.linkedin.com/in/rahul-yadav-61901b168/)  
+
+[<img src="https://img.icons8.com/color/40/gmail-new.png" alt="Email" /> **Email**](mailto:ry66239@gmail.com)  
+
 
 
 ---
