@@ -9,8 +9,8 @@
 🎓 Economics graduate passionate about **Data Analytics, AI, and Business Intelligence**.
 📈 Always learning, building, and experimenting with analytics projects.
 
-I love playing with numbers and enjoy the intricacies of mathematics.
-Experienced in Power BI and Excel for insightful data visualization.
+I love playing with numbers and enjoy the intricacies of mathematics/
+Experienced in Power BI and Excel for insightful data visualization/
 Practicing MySQL for data management and querying.
 Currently learning Python to advance my skills in data analysis and machine learning.
 
