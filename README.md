@@ -77,6 +77,10 @@
 
 
 ---
+---
+
+💖 **Thank You for Visiting!**  
+Your time here means a lot. If you found my work interesting, feel free to ⭐ star the repositories or connect with me! 🚀
 
 <!-- Footer Banner -->
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0072ff,100:00c6ff&height=120&section=footer)
