@@ -21,6 +21,7 @@
 ![SQL](https://img.shields.io/badge/SQL-005C84?logo=postgresql&logoColor=white&style=for-the-badge)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black&style=for-the-badge)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white&style=for-the-badge)
+<img src="https://img.icons8.com/?size=48&id=O2MhOCXhLqiG&format=png" width="30"/> Generative AI
 
 ---
 
@@ -44,8 +45,10 @@
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://www.linkedin.com/in/rahul-yadav-61901b168/)
-[![GitHub](https://github.com/Rahulyadav017)
+[![GitHub](https://img.icons8.com/ios-glyphs/30/000000/github.png)](https://github.com/Rahulyadav017)
+
+[![LinkedIn](https://img.icons8.com/ios-filled/30/0A66C2/linkedin.png)](https://www.linkedin.com/in/rahul-yadav-61901b168/)
+
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ry66239@gmail.com)
 
 ---
