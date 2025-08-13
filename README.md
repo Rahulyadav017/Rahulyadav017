@@ -1,12 +1,11 @@
 
-<img width="1756" height="1024" alt="image" src="https://github.com/user-attachments/assets/30aeb8e4-0ac7-4c22-9a45-a2aef563a135" />
+<img width="1956" height="1024" alt="image" src="https://github.com/user-attachments/assets/30aeb8e4-0ac7-4c22-9a45-a2aef563a135" />
 
 
 
 <!-- Profile Banner -->
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=200&section=header&text=Rahul%20Yadav&fontSize=50&fontColor=ffffff&fontAlignY=35)
 
-# 👋 Hi, I'm Rahul Yadav
 🎓 Economics graduate passionate about **Data Analytics, AI, and Business Intelligence**.
 📈 Always learning, building, and experimenting with analytics projects.
 
