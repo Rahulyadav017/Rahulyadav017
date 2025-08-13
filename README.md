@@ -19,9 +19,13 @@ My goal is to utilize my analytical skills to make data-driven decisions based o
 
 Skills 💪
 Data Collection & Cleaning: Proficient in collecting, cleansing, and organizing data from diverse sources, including databases, spreadsheets, and external systems. Ensuring high data quality and integrity.
+
 Data & Statistical Analysis: Skilled in analyzing data using statistical techniques and data mining to identify trends, patterns, and actionable insights.
+
 Reporting & Visualization: Skilled in creating compelling reports, dashboards, and visualizations using Power BI and Excel to make complex information clear and support informed decision-making.
+
 Problem Solving & Critical Thinking: Use data-driven approaches to solve business problems, optimize processes, and make data-informed decisions.
+
 Data Quality & Integrity: Committed to performing thorough data quality assessments and stress tests to guarantee reliable and trustworthy data.
 
 ## 🛠 Tech Stack
