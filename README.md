@@ -71,7 +71,10 @@ I'm on an exciting journey to become a **Data Analyst specializing in Machine Le
 **Skills:** Data Cleaning, Visualization, EDA  
 > Cleaned and analyzed rdata to uncover trends in churn, cost, and by gender.
 
--
+### 📊 Uber_EDA_ML Analysis
+[🔗 View Project](https://github.com/Rahulyadav017/Uber-ncr-eda_ml.git)
+**Skills:** DataScience #MachineLearning #EDA #Python #JupyterNotebook #DataAnalysis #BigData #PredictiveAnalytics #DataVisualization #AI #Programming #Statistics #MLModels #DeepLearning #DataCleaning #FeatureEngineering #Analytics #Coding
+>Analyzed ride-hailing patterns and cancellation drivers to reveal timing, location, payment, vehicle-type, and rating effects on booking outcomes
 
 ---
 ## 🌐 You Can Connect With Me  
