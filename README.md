@@ -76,6 +76,13 @@ I'm on an exciting journey to become a **Data Analyst specializing in Machine Le
 **Skills:** DataScience #MachineLearning #EDA #Python #JupyterNotebook #DataAnalysis #BigData #PredictiveAnalytics #DataVisualization #AI #Programming #Statistics #MLModels #DeepLearning #DataCleaning #FeatureEngineering #Analytics #Coding
 >Analyzed ride-hailing patterns and cancellation drivers to reveal timing, location, payment, vehicle-type, and rating effects on booking outcomes
 
+### 📊 “Exploring Amazon Sales Trends Using Power BI Visualizations"
+[🔗 View Project](https://github.com/Rahulyadav017/-Data-Storytelling-with-Power-BI-Amazon-Product-Sales-Dashboard-Explained-.git)
+**skills:**Tool Used: Microsoft Power BI
+Data Cleaning: Power Query Editor (removed duplicates, handled nulls, renamed columns)
+Data Modeling: Star schema with Fact (Sales) and Dimension (Product, Date, Category) tables
+DAX Measures.
+
 ---
 ## 🌐 You Can Connect With Me  
 
